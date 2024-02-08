@@ -1,0 +1,139 @@
+.container {
+    background: rgb(203, 44, 182);
+    height: 100vh;
+    width: 100vw;
+}
+
+.asking {
+    color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 445px;
+    left: 270px;
+    font-size: larger;
+}
+
+.main {
+    display: block;
+    position: relative;
+    left: 270px;
+    top: 100px;
+
+}
+
+.main img {
+    border-radius: 50%;
+}
+
+.yesbutton {
+    display: block;
+    position: relative;
+    left: 290px;
+    top: 130px;
+}
+
+.ybtn {
+    border: 2px solid rgb(214, 125, 199);
+    border-radius: 40%;
+    height: 35px;
+    width: 90px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255 123 211 / 46%);
+}
+
+.yup {
+
+    border-radius: 40%;
+    height: 35px;
+    width: 90px;
+    color: rgb(255, 255, 255);
+
+}
+.yupno {
+
+    border-radius: 40%;
+    height: 35px;
+    width: 90px;
+    color: rgb(255, 255, 255);
+
+}
+
+.yup:hover {
+
+    color: black;
+    font-size: 20px;
+}
+.yupno:hover {
+
+    color: black;
+    font-size: 20px;
+}
+
+.nobutton {
+    display: block;
+    position: relative;
+    left: 600px;
+    top: 90px;
+}
+
+.nobtn {
+    border: 2px solid rgb(214, 125, 199);
+    border-radius: 40%;
+    height: 35px;
+    width: 90px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255 123 211 / 46%);
+}
+
+
+.nobtn:hover {
+
+    color: black;
+    background-color: rgb(252, 191, 250);
+    font-size: 20px;
+}
+
+.container1 {
+    height: 100vh;
+    width: 100vw;
+}
+
+.bg {
+    height: 100vh;
+    width: 100vw;
+}
+
+.dance {
+
+    position: relative;
+    left: 33%;
+    bottom: 50%;
+}
+
+.message {
+    background-color: rgba(141, 6, 6, 0.408);
+    font-size: 35px;
+    color: rgb(234, 4, 111);
+    display: block;
+    position: relative;
+    left: 50px;
+    right: 0px;
+    bottom: 400px;
+}
+
+.message2 {
+    background-color: rgba(141, 6, 6, 0.408);
+    font-size: 35px;
+    color: rgb(234, 4, 111);
+    display: block;
+    position: relative;
+    left: 50px;
+    right: 0px;
+    bottom: 130px;
+}
+
+.dead {
+    margin: 50px;
+    margin-left: 250px;
+    height: 70vh;
+    width: 50vw;
+}
